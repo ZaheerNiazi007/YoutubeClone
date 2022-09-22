@@ -38,8 +38,8 @@ function Header () {
             <AppsIcon className='header__icon'/>
             <NotificationsIcon className='header__icon'/>
             <Avatar
-              alt='Nouman Ahmed'
-              stc='https://avatars1.githubusercontent.com/u/35970677?s=60&v=4'
+              alt=''
+              stc=''
             />
           </div>
           
